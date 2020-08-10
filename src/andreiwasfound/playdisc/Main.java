@@ -47,7 +47,7 @@ public class Main extends JavaPlugin {
     }
 
     public void updateChecker() {
-        new UpdateChecker(this, 80958).getLatestVersion(version -> {
+        new UpdateChecker(this, 82591).getLatestVersion(version -> {
             if (this.getDescription().getVersion().equalsIgnoreCase(version)) {
                 printToConsole("PlayDisc is up to date!");
             } else {
