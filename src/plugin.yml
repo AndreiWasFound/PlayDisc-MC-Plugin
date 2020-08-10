@@ -1,0 +1,12 @@
+name: PlayDisc
+main: andreiwasfound.playdisc.Main
+author: AndreiWasFound
+version: 1.0 PUBLIC DEV
+api-version: 1.13
+description: Let's you play any disc in the game using /playdisc
+website:
+
+commands:
+  playdisc:
+    description: Main info about this plugin
+    permission: playdisc.use
