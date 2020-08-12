@@ -1,7 +1,7 @@
 name: PlayDisc
 main: andreiwasfound.playdisc.Main
 author: AndreiWasFound
-version: 1.0.1 PUBLIC DEV
+version: 1.0
 api-version: 1.13
 description: Let's you play any disc in the game using /playdisc
 website: https://www.spigotmc.org/resources/playdisc.82591/
